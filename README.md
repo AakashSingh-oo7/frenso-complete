@@ -1,6 +1,11 @@
 Frenso
 A full-stack social platform where users can sign up (including Google OAuth), create posts & replies, like posts, and pay via Razorpay to get a verified badge.
 
+##Demo Vedio
+
+https://github.com/user-attachments/assets/eac547f1-31d3-4c41-8c64-b9623b6dd622
+
+
 Built with:
 ✨ Frontend: React, Redux, MUI, TailwindCSS, Formik, Yup
 🚀 Backend: Spring Boot, Spring Security (JWT), Hibernate, MySQL
